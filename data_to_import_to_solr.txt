@@ -1,0 +1,523 @@
+         {
+            "id":"pennant",
+            "isParent":[
+               true
+            ],
+            "word":[
+               "pen*nant"
+            ],
+            "pronounciation":[
+               "ˈpe-nənt"
+            ],
+            "audioUrl":[
+               "https://media.merriam-webster.com/soundc11/p/pennan01.wav"
+            ],
+            "localAudioUrl":[
+               "/Users/ravi/Downloads/words_repository/consolidated/mp3_files/pennant.mp3"
+            ],
+            "stems":[
+               "pennant",
+               "pennants"
+            ],
+            "partOfSpeech":[
+               "noun"
+            ],
+            "countryOfOrigin":[
+               " Not Available "
+            ],
+            "timePeriod":[
+               "1698{ds||1|a|}"
+            ],
+            "defintion":[
+               "\nnull \n   Text - text:{bc}a flag emblematic of championship (as in a professional baseball league) \n  Vis  Misc Information  senseDiverder: also ---  text {bc}the championship itself"
+            ],
+            "inFlections":[
+               " Not Available "
+            ],
+            "etomology":[
+               " Not Available "
+            ],
+            "alternateDefinitions":[
+               "any of various nautical flags tapering usually to a point or swallowtail and used for identification or signaling",
+               "a flag or banner longer in the fly than in the hoist; especially : one that tapers to a point",
+               "a flag emblematic of championship (as in a professional baseball league); also : the championship itself"
+            ],
+            "length":[
+               8
+            ],
+            "inputSource":[
+               "json"
+            ]
+         },
+         {
+            "id":"siren",
+            "isParent":[
+               true
+            ],
+            "word":[
+               "si*ren"
+            ],
+            "pronounciation":[
+               "ˈsī-rən"
+            ],
+            "audioUrl":[
+               "https://media.merriam-webster.com/soundc11/s/siren001.wav"
+            ],
+            "localAudioUrl":[
+               "/Users/ravi/Downloads/words_repository/consolidated/wav_files/siren.wav"
+            ],
+            "stems":[
+               "siren",
+               "sirens"
+            ],
+            "partOfSpeech":[
+               "noun"
+            ],
+            "countryOfOrigin":[
+               " Not Available "
+            ],
+            "timePeriod":[
+               "14th century{ds||1||}"
+            ],
+            "defintion":[
+               "\nnull \n   Text - text:{bc}either of two North American eel-shaped amphibians that constitute a genus ({it}Siren{/it}) and have small forelimbs but neither hind legs nor pelvis and have permanent external gills as well as lungs \n  Vis  Misc Information  "
+            ],
+            "inFlections":[
+               " Not Available "
+            ],
+            "etomology":[
+               " Not Available "
+            ],
+            "alternateDefinitions":[
+               "any of a group of female and partly human creatures in Greek mythology that lured mariners to destruction by their singing",
+               "a woman who sings with enchanting sweetness",
+               "temptress"
+            ],
+            "length":[
+               6
+            ],
+            "inputSource":[
+               "json"
+            ]
+         },
+         {
+            "id":"prickly",
+            "isParent":[
+               true
+            ],
+            "word":[
+               "prick*ly"
+            ],
+            "pronounciation":[
+               "ˈpri-k(ə-)lē"
+            ],
+            "audioUrl":[
+               "https://media.merriam-webster.com/soundc11/p/prickl03.wav"
+            ],
+            "localAudioUrl":[
+               "/Users/ravi/Downloads/words_repository/consolidated/wav_files/prickliness.wav"
+            ],
+            "stems":[
+               "pricklier",
+               "prickliest",
+               "prickliness",
+               "pricklinesses",
+               "prickly"
+            ],
+            "partOfSpeech":[
+               "adjective"
+            ],
+            "countryOfOrigin":[
+               " Not Available "
+            ],
+            "timePeriod":[
+               "1578{ds||1||}"
+            ],
+            "defintion":[
+               "\nnull \n   Text - text:{bc}easily irritated  \n  Vis \n vis  t : had a {wi}prickly{/wi} disposition Misc Information  senseDiverder: especially ---  text {bc}distinguished from related kinds by the presence of prickles"
+            ],
+            "inFlections":[
+               "prick*li*er",
+               "prick*li*est"
+            ],
+            "etomology":[
+               " Not Available "
+            ],
+            "alternateDefinitions":[
+               "full of or covered with prickles; especially : distinguished from related kinds by the presence of prickles",
+               "marked by prickling : stinging",
+               "troublesome, vexatious"
+            ],
+            "length":[
+               8
+            ],
+            "inputSource":[
+               "json"
+            ] 
+         },
+         {
+            "id":"anthem",
+            "isParent":[
+               true
+            ],
+            "word":[
+               "an*them"
+            ],
+            "pronounciation":[
+               "ˈan(t)-thəm"
+            ],
+            "audioUrl":[
+               "https://media.merriam-webster.com/soundc11/a/anthem01.wav"
+            ],
+            "localAudioUrl":[
+               "/Users/ravi/Downloads/words_repository/consolidated/wav_files/anthem.wav"
+            ],
+            "stems":[
+               "anthem",
+               "anthemic",
+               "anthems"
+            ],
+            "partOfSpeech":[
+               "noun"
+            ],
+            "countryOfOrigin":[
+               " Not Available "
+            ],
+            "timePeriod":[
+               "before 12th century{ds||3|a|}"
+            ],
+            "defintion":[
+               "\nnull \n   Text - text:{bc}a sacred vocal composition with words usually from the Scriptures \n  Vis  Misc Information  "
+            ],
+            "inFlections":[
+               " Not Available "
+            ],
+            "etomology":[
+               " Not Available "
+            ],
+            "alternateDefinitions":[
+               "a song or hymn of praise or gladness",
+               "a usually rousing popular song that typifies or is identified with a particular subculture, movement, or point of view",
+               "a psalm or hymn sung antiphonally or responsively"
+            ],
+            "length":[
+               7
+            ],
+            "inputSource":[
+               "json"
+            ] 
+         },
+         {
+            "id":"resemble",
+            "isParent":[
+               true
+            ],
+            "word":[
+               "re*sem*ble"
+            ],
+            "pronounciation":[
+               "ri-ˈzem-bəl"
+            ],
+            "audioUrl":[
+               "https://media.merriam-webster.com/soundc11/r/resemb03.wav"
+            ],
+            "localAudioUrl":[
+               "/Users/ravi/Downloads/words_repository/consolidated/mp3_files/resemble.mp3"
+            ],
+            "stems":[
+               "resemble",
+               "resembled",
+               "resembles",
+               "resembling"
+            ],
+            "partOfSpeech":[
+               "verb"
+            ],
+            "countryOfOrigin":[
+               " Not Available "
+            ],
+            "timePeriod":[
+               "14th century{ds||1||}"
+            ],
+            "defintion":[
+               "\ntransitive verb \n   Text - text:{bc}to represent as like \n  Vis  Misc Information  "
+            ],
+            "inFlections":[
+               "re*sem*bled",
+               "re*sem*bling"
+            ],
+            "etomology":[
+               " Not Available "
+            ],
+            "alternateDefinitions":[
+               "to be like or similar to",
+               "to represent as like",
+               "to look or be like (someone or something)"
+            ],
+            "length":[
+               10
+            ],
+            "inputSource":[
+               "json"
+            ] 
+         },
+         {
+            "id":"path",
+            "isParent":[
+               true
+            ],
+            "word":[
+               "path"
+            ],
+            "pronounciation":[
+               "ˈpath"
+            ],
+            "audioUrl":[
+               "https://media.merriam-webster.com/soundc11/p/path0001.wav"
+            ],
+            "localAudioUrl":[
+               "/Users/ravi/Downloads/words_repository/consolidated/wav_files/path.wav"
+            ],
+            "stems":[
+               "path",
+               "paths"
+            ],
+            "partOfSpeech":[
+               "noun"
+            ],
+            "countryOfOrigin":[
+               " Not Available "
+            ],
+            "timePeriod":[
+               "before 12th century{ds||1||}"
+            ],
+            "defintion":[
+               "\nnull \n   Text - text:{bc}{sx|pathway||2}  \n  Vis \n vis  t : the optic {wi}path{/wi} from the retina to the cerebral cortex Misc Information  "
+            ],
+            "inFlections":[
+               "paths"
+            ],
+            "etomology":[
+               " Not Available "
+            ],
+            "alternateDefinitions":[
+               "a trodden way",
+               "a track specially constructed for a particular use",
+               "course, route"
+            ],
+            "length":[
+               4
+            ],
+            "inputSource":[
+               "json"
+            ] 
+         },
+         {
+            "id":"phaeton",
+            "isParent":[
+               true
+            ],
+            "word":[
+               "pha*eton"
+            ],
+            "pronounciation":[
+               "ˈfā-ə-tən"
+            ],
+            "audioUrl":[
+               "https://media.merriam-webster.com/soundc11/p/phaeto01.wav"
+            ],
+            "localAudioUrl":[
+               "/Users/ravi/Downloads/words_repository/consolidated/mp3_files/phaeton.mp3"
+            ],
+            "stems":[
+               "phaeton",
+               "phaetons"
+            ],
+            "partOfSpeech":[
+               "noun"
+            ],
+            "countryOfOrigin":[
+               " Not Available "
+            ],
+            "timePeriod":[
+               "1742{ds||1||}"
+            ],
+            "defintion":[
+               "\nnull \n   Text - text:{bc}{sx|touring car||} \n  Vis  Misc Information  "
+            ],
+            "inFlections":[
+               " Not Available "
+            ],
+            "etomology":[
+               " Not Available "
+            ],
+            "alternateDefinitions":[
+               "any of various light four-wheeled horse-drawn vehicles",
+               "touring car"
+            ],
+            "length":[
+               8
+            ],
+            "inputSource":[
+               "json"
+            ] 
+         },
+         {
+            "id":"pronto",
+            "isParent":[
+               true
+            ],
+            "word":[
+               "pron*to"
+            ],
+            "pronounciation":[
+               "ˈprän-ˌtō"
+            ],
+            "audioUrl":[
+               "https://media.merriam-webster.com/soundc11/p/pronto01.wav"
+            ],
+            "localAudioUrl":[
+               "/Users/ravi/Downloads/words_repository/consolidated/wav_files/pronto.wav"
+            ],
+            "stems":[
+               "pronto"
+            ],
+            "partOfSpeech":[
+               "adverb"
+            ],
+            "countryOfOrigin":[
+               " Not Available "
+            ],
+            "timePeriod":[
+               "1892"
+            ],
+            "defintion":[
+               "\nnull \n   Text - text:{bc}without delay \n  Vis  Misc Information  "
+            ],
+            "inFlections":[
+               " Not Available "
+            ],
+            "etomology":[
+               " Not Available "
+            ],
+            "alternateDefinitions":[
+               "without delay",
+               "without delay : right away"
+            ],
+            "length":[
+               7
+            ],
+            "inputSource":[
+               "json"
+            ] 
+         },
+         {
+            "id":"click",
+            "isParent":[
+               true
+            ],
+            "word":[
+               "click"
+            ],
+            "pronounciation":[
+               "ˈklik"
+            ],
+            "audioUrl":[
+               "https://media.merriam-webster.com/soundc11/c/click001.wav"
+            ],
+            "localAudioUrl":[
+               "/Users/ravi/Downloads/words_repository/consolidated/mp3_files/click.mp3"
+            ],
+            "stems":[
+               "click",
+               "clickable",
+               "clicked",
+               "clicking",
+               "clicks"
+            ],
+            "partOfSpeech":[
+               "verb"
+            ],
+            "countryOfOrigin":[
+               " Not Available "
+            ],
+            "timePeriod":[
+               "15th century{ds|i|1||}"
+            ],
+            "defintion":[
+               "\nintransitive verb \n \ntransitive verb \n   Text - text:{bc}to change or move through (channels) especially by pushing buttons on a remote control \n  Vis  Misc Information    Text - text:{bc}to change to a different channel or move through channels especially by pushing buttons on a remote control  \n  Vis \n vis  t : She fiddled with the remote control until the TV turned on. She {wi}clicked{/wi} through the channels. Misc Information  \n auth:Juanita Carter "
+            ],
+            "inFlections":[
+               "clicked",
+               "click*ing",
+               "clicks"
+            ],
+            "etomology":[
+               " Not Available "
+            ],
+            "alternateDefinitions":[
+               "to strike, move, or produce with a click",
+               "to select especially in a computer interface by pressing a button on a control device (such as a mouse)",
+               "to turn (something) on or off by pushing a button or moving a switch"
+            ],
+            "length":[
+               5
+            ],
+            "inputSource":[
+               "json"
+            ] 
+         },
+         {
+            "id":"tendril",
+            "isParent":[
+               true
+            ],
+            "word":[
+               "ten*dril"
+            ],
+            "pronounciation":[
+               "ˈten-drəl"
+            ],
+            "audioUrl":[
+               "https://media.merriam-webster.com/soundc11/t/tendri01.wav"
+            ],
+            "localAudioUrl":[
+               "/Users/ravi/Downloads/words_repository/consolidated/mp3_files/tendrils.mp3"
+            ],
+            "stems":[
+               "tendril",
+               "tendriled",
+               "tendrilled",
+               "tendrilous",
+               "tendrils"
+            ],
+            "partOfSpeech":[
+               "noun"
+            ],
+            "countryOfOrigin":[
+               " Not Available "
+            ],
+            "timePeriod":[
+               "1538{ds||1||}"
+            ],
+            "defintion":[
+               "\nnull \n   Text - text:{bc}something suggestive of a tendril  \n  Vis \n vis  t : creeping {wi}tendrils{/wi} of fog Misc Information  "
+            ],
+            "inFlections":[
+               " Not Available "
+            ],
+            "etomology":[
+               " Not Available "
+            ],
+            "alternateDefinitions":[
+               "a leaf, stipule, or stem modified into a slender spirally coiling sensitive organ serving to attach a climbing plant to its support",
+               "something suggestive of a tendril",
+               "the thin stem of a climbing plant that attaches to walls, fences, etc."
+            ],
+            "length":[
+               8
+            ],
+            "inputSource":[
+               "json"
+            ] 
+         }
